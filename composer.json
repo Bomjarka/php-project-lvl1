@@ -1,0 +1,11 @@
+{
+    "name": "hexlet/code",
+    "description": "frist project",
+    "authors": [
+        {
+            "name": "alexander",
+            "email": "a.chirkin@robo.finance"
+        }
+    ],
+    "require": {}
+}
