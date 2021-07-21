@@ -2,7 +2,7 @@
     "name": "hexlet/code",
     "description": "frist project",
     "autoload": {
-        "files": ["src/Cli.php", "src/EvenGame.php"]
+        "files": ["src/Cli.php", "src/EvenGame.php", "src/CalcGame.php", "src/Greeting.php"]
     },
     "authors": [
         {
